@@ -1,24 +1,5 @@
 # 🌡️ Temperature Converter
 
-A simple web application that converts temperatures between **Celsius (°C)**, **Fahrenheit (°F)**, and **Kelvin (K)**.  
-Built using **HTML, CSS, and JavaScript**, this project demonstrates **DOM manipulation, form validation, and real-time calculations**.
-
----
-
-## 🚀 Project URL
-🔗 [Temperature Converter Project on roadmap.sh](https://roadmap.sh/projects/temperature-converter)
-
----
-
-## 📂 Project Structure
-temperature-converter/
-│── index.html # Main UI structure
-│── style.css # Styling and theme
-│── script.js # Conversion logic & DOM handling
-│── README.md # Documentation
-
-# 🌡️ Temperature Converter
-
 ## 📖 Overview
 This project is a simple **Temperature Converter** built using **HTML, CSS, and JavaScript**.  
 It allows users to convert temperature values between **Celsius, Fahrenheit, and Kelvin**.  
@@ -40,3 +21,77 @@ The project consists of three main files:
 - **style.css** → Adds styling for better UI experience  
 - **script.js** → Handles logic for enabling/disabling button and performing conversions  
 
+
+---
+
+
+---
+
+## 🛠️ How to Use
+1. Enter a temperature value in the input field  
+2. Select the **"From Unit"** (Celsius, Fahrenheit, or Kelvin)  
+3. Select the **"To Unit"**  
+4. Click the **"Convert"** button (enabled only when all fields are filled)  
+5. View the converted result below the form  
+
+---
+
+## 📊 Example
+Input:  
+Temperature: 34
+From Unit: Celsius
+To Unit: Fahrenheit
+
+
+Output:  
+
+34 Celsius is 93.20 Fahrenheit
+
+
+---
+
+## 🖥️ Installation & Setup
+1. Clone or download this repository  
+   ```bash
+   git clone https://github.com/your-username/temperature-converter.git
+
+
+2. Open index.html in any modern web browser to use the app
+
+📜 Code Explanation
+HTML → Provides structure with input field, unit selectors, and button
+
+CSS → Adds styling for clean, responsive UI
+
+JavaScript →
+
+Enables/disables the button based on user input
+
+Converts temperatures using formulas
+
+Displays results dynamically
+
+🧮 Conversion Formulas
+Celsius → Fahrenheit:
+°F = (°C × 9/5) + 32
+
+Fahrenheit → Celsius:
+°C = (°F − 32) × 5/9
+
+Celsius → Kelvin:
+K = °C + 273.15
+
+Kelvin → Celsius:
+°C = K − 273.15
+
+Fahrenheit → Kelvin:
+K = (°F − 32) × 5/9 + 273.15
+
+Kelvin → Fahrenheit:
+°F = (K − 273.15) × 9/5 + 32
+
+🚀 Project Roadmap
+🔗 Temperature Converter Project on roadmap.sh
+
+👨‍💻 Author
+Chaitra Yallari
