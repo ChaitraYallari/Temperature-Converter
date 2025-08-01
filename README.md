@@ -82,8 +82,8 @@ Kelvin → Fahrenheit:
 
 ---
 
-## 🚀 Project Roadmap
-See the project on roadmap.sh: Temperature Converter Project
+## 🚀 Project URL
+🔗 [Temperature Converter Project on roadmap.sh](https://roadmap.sh/projects/temperature-converter)
 
 ---
 
