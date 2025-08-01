@@ -53,24 +53,15 @@ Output:
 2. Open index.html in any modern web browser to use the app
 
 ---
-📜 Code Explanation
-HTML
-Provides page structure—including the input field, unit selectors, button, and result display.
+## 📜 Code Explanation
 
-CSS
-Adds modern styling and layout, making the UI clean, visually appealing, and responsive across devices.
+- **HTML** → Provides page structure—including the input field, unit selectors, button, and result display.
+- **CSS** → Adds modern styling and layout, making the UI clean, visually appealing, and responsive across devices.Adds modern styling and layout, making the UI clean, visually appealing, and responsive across devices.
+- **JavaScript** → Enables/disables the convert button based on user input. Handles user selections and input validation. Performs temperature conversion with correct formulas. Dynamically shows the conversion result on the page.
 
-JavaScript
+---
 
-Enables/disables the convert button based on user input.
-
-Handles user selections and input validation.
-
-Performs temperature conversion with correct formulas.
-
-Dynamically shows the conversion result on the page.
-
-🧮 Conversion Formulas
+## 🧮 Conversion Formulas
 Celsius → Fahrenheit:
 °F = (°C × 9/5) + 32
 
@@ -89,9 +80,13 @@ K = (°F − 32) × 5/9 + 273.15
 Kelvin → Fahrenheit:
 °F = (K − 273.15) × 9/5 + 32
 
-🚀 Project Roadmap
+---
+
+## 🚀 Project Roadmap
 See the project on roadmap.sh: Temperature Converter Project
 
-👨💻 Author
+---
+
+## 👨💻 Author
 Chaitra Yallari
 
