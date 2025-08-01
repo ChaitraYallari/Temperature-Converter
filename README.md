@@ -21,10 +21,6 @@ The project consists of three main files:
 - **style.css** → Adds styling for better UI experience  
 - **script.js** → Handles logic for enabling/disabling button and performing conversions  
 
-
----
-
-
 ---
 
 ## 🛠️ How to Use
@@ -42,11 +38,9 @@ Temperature: 34
 From Unit: Celsius
 To Unit: Fahrenheit
 
-
 Output:  
 
 34 Celsius is 93.20 Fahrenheit
-
 
 ---
 
@@ -58,18 +52,23 @@ Output:
 
 2. Open index.html in any modern web browser to use the app
 
+---
 📜 Code Explanation
-HTML → Provides structure with input field, unit selectors, and button
+HTML
+Provides page structure—including the input field, unit selectors, button, and result display.
 
-CSS → Adds styling for clean, responsive UI
+CSS
+Adds modern styling and layout, making the UI clean, visually appealing, and responsive across devices.
 
-JavaScript →
+JavaScript
 
-Enables/disables the button based on user input
+Enables/disables the convert button based on user input.
 
-Converts temperatures using formulas
+Handles user selections and input validation.
 
-Displays results dynamically
+Performs temperature conversion with correct formulas.
+
+Dynamically shows the conversion result on the page.
 
 🧮 Conversion Formulas
 Celsius → Fahrenheit:
@@ -91,7 +90,8 @@ Kelvin → Fahrenheit:
 °F = (K − 273.15) × 9/5 + 32
 
 🚀 Project Roadmap
-🔗 Temperature Converter Project on roadmap.sh
+See the project on roadmap.sh: Temperature Converter Project
 
-👨‍💻 Author
+👨💻 Author
 Chaitra Yallari
+
