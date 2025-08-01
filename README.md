@@ -43,16 +43,6 @@ Output:
 34 Celsius is 93.20 Fahrenheit
 
 ---
-
-## 🖥️ Installation & Setup
-1. Clone or download this repository  
-   ```bash
-   git clone https://github.com/your-username/temperature-converter.git
-
-
-2. Open index.html in any modern web browser to use the app
-
----
 ## 📜 Code Explanation
 
 - **HTML** → Provides page structure—including the input field, unit selectors, button, and result display.
@@ -87,6 +77,6 @@ Kelvin → Fahrenheit:
 
 ---
 
-## 👨💻 Author
+## 👨‍💻 Author
 Chaitra Yallari
 
